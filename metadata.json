@@ -1,0 +1,6 @@
+{
+  "name": "Halaqoh App - Presensi & Capaian Santri",
+  "description": "Aplikasi presensi harian santri, kata motivasi Qur'ani harian, dan dasbor laporan capaian belajar bulanan terintegrasi WhatsApp untuk musyrif dan koordinator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
